@@ -1,0 +1,8 @@
+
+path: E:\Projects\Numberplate detection and CSV file check\automatic-number-plate-recognition-python-yolov8\Dataset #dataset root dir
+train: images\train # train images (relative to 'path')
+val: images\train # val images (relative to 'path')
+
+#Classes
+names:
+  0:  Numberplate

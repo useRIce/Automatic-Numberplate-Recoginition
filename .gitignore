@@ -1,0 +1,14 @@
+#Basic stuff
+__pycache__/
+*.py[cod]
+*$py.class
+
+#ignore in sort module
+sort/output/
+sort/mot_benchmark
+
+#Testing Area
+venv/
+Dataset/
+
+#there is config.yaml file in staging area, remove it
